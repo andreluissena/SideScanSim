@@ -95,11 +95,7 @@ SideScanSim/
 ├── sidescan_engine_v4.py         # Acoustic simulation engine
 ├── requirements.txt              # Python dependencies
 ├── docs/
-│   ├── SideScanSim_Tutorial.pdf  # Step-by-step user guide
-│   ├── 01_physics_reference.md   # Acoustic physics model reference
-│   ├── 02_real_image_catalog.md  # Visual characteristics catalog
-│   ├── 03_domain_scenarios.md    # Multi-domain scenario definitions
-│   └── 04_validation_criteria.md # Quantitative validation criteria
+│   ├── SideScanSim_Tutorial_EN.pdf  # Step-by-step user guide
 └── examples/
     └── (sample synthetic images)
 ```
