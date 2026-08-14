@@ -135,12 +135,12 @@ SideScanSim/
 If you use SideScanSim in your research, please cite:
 
 ```bibtex
-@inproceedings{sena2025sidescansim,
+@inproceedings{sena2026sidescansim,
   title     = {SideScanSim: A Physically-Grounded Synthetic Side-Scan Sonar
                Image Simulator for Machine Learning Dataset Generation},
   author    = {Sena, André Luis S. and others},
-  booktitle = {Anais do ERBASE 2025 / WEIBASE},
-  year      = {2025},
+  booktitle = {Anais do ERBASE 2026 / WEIBASE},
+  year      = {2026},
   note      = {Software available at https://github.com/andreluissena/SideScanSim}
 }
 ```
